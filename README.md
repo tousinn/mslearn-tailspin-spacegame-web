@@ -1,3 +1,4 @@
+[![Build Status](https://tousinn.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/tousinn.mslearn-tailspin-spacegame-web?branchName=master)](https://tousinn.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
